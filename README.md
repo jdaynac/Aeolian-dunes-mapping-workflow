@@ -1,7 +1,7 @@
 # Aeolian-dunes-mapping-workflow
 Supplementary material of the Daynac et al., 2024 paper: A new workflow for mapping dune features (outline, crestline and defects) combining deep learning and skeletonization from DEM-derived data.
 
-Please cite the use of figures and data on this page with the article doi: SOON
+Please cite the use of figures and data on this page with the article doi.
 
 The supplementary material contains an xlsx file of the various tables and metrics referred to in the text: 
 
