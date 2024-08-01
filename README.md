@@ -3,7 +3,7 @@ Supplementary material of the Daynac et al., 2024 paper: A new workflow for mapp
 
 Please cite the use of figures and data on this page with the article doi.
 
-The supplementary material contains an xlsx file of the various tables and metrics referred to in the text: 
+The supplementary material contains an xlsx and KMZ file of the various tables and metrics referred to in the text: 
 
 XLSX
 - SM1: review of automated mapping methods.
@@ -16,10 +16,7 @@ A 00_KMZ folder contains two files:
 - KMZ of 00_Training_samples data.
 - KMZ of 01_Rub_al_khali data.
 
-QGIS
-A 01_QGIS folder contains two QGIS projects for: 
-- visualizing 01_VALIDATION data.
-- visualizing 02_TEST_RUB_AL_KHALI data (outlines, crestlines, defects, morphometric parameters). 
-
+QGIS data
+The QGIS data presented in the paper is available on request from: jimmy.daynac@univ-lemans.fr
 
 This page will be kept up to date and will soon include the QGIS and Ecognition toolboxes for mapping dunes, crestlines and defects.
