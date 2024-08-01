@@ -11,8 +11,13 @@ XLSX
 - SM3: Metric of training on validation data.
 - SM4: Metric of crestlines skeletonization and dune defects extraction on validation data).
 
+KMZ
+A 00_KMZ folder contains two files: 
+- KMZ of 00_Training_samples data.
+- KMZ of 01_Rub_al_khali data.
+
 QGIS
-A 00_QGIS folder contains two QGIS projects for: 
+A 01_QGIS folder contains two QGIS projects for: 
 - visualizing 01_VALIDATION data.
 - visualizing 02_TEST_RUB_AL_KHALI data (outlines, crestlines, defects, morphometric parameters). 
 
