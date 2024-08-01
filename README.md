@@ -17,6 +17,6 @@ A 00_KMZ folder contains two files:
 - KMZ of 01_Rub_al_khali data.
 
 QGIS data
-The QGIS data presented in the paper is available on request from: jimmy.daynac@univ-lemans.fr
+The QGIS data (QGIS project with outlines, crestlines, defects, and morphometric analysis) presented in the paper is available on request from: jimmy.daynac@univ-lemans.fr
 
 This page will be kept up to date and will soon include the QGIS and Ecognition toolboxes for mapping dunes, crestlines and defects.
