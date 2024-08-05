@@ -22,4 +22,5 @@ A 00_KMZ folder contains two files:
 QGIS data
 We are currently working on finalizing the QGIS database (QGIS project with outlines, crestlines, defects, and morphometric analysis) presented in the paper, mainly focusing on hosting the database on a website. 
 It will be available soon. In the meantime, it is available on request from: jimmy.daynac@univ-lemans.fr
+
 This page will be kept up to date and will soon include the QGIS and Ecognition toolboxes for mapping dunes, crestlines and defects.
