@@ -1,6 +1,5 @@
 # A new workflow for mapping dune features (outline, crestline and defects) combining deep learning and skeletonization from DEM-derived data.
 
-A new workflow for mapping dune features (outline, crestline and defects) combining deep learning and skeletonization from DEM-derived data.
 Authors: Jimmy Daynac, Paul Bessin, Stéphane Pochat, Régis Mourgues, Samuel Shumack
 
 Supplementary material
